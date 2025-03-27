@@ -1,0 +1,23 @@
+{
+  "name": "koishi-plugin-dify-plugin",
+  "description": "将机器人接入Dify工作流的插件",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+
+  "files": [
+    "lib",
+    "dist"
+  ],
+  "license": "MIT",
+  "scripts": {},
+  "keywords": [
+    "chatbot",
+    "koishi",
+    "plugin"
+  ],
+  "devDependencies": {},
+  "peerDependencies": {
+    "koishi": "^4.18.7"
+  }
+}
